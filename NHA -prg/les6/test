@@ -1,0 +1,6 @@
+het_regent = False
+tijdstip = "nacht"
+if het_regent or tijdstip == "nacht":  
+    print("Ik ga niet naar buiten")
+else:  
+    print("Ik ga naar buiten")

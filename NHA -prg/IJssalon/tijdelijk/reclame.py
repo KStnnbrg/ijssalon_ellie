@@ -51,3 +51,4 @@ def combinatie(invoer_lijst_2):
     return uitvoer
 
 print(combinatie([10,5,3,2,1,2,9]))
+
